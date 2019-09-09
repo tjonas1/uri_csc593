@@ -93,10 +93,10 @@ D 60-66
 F <60  
 
 
-####Tentative Course Schedule  
+#### Tentative Course Schedule  
 
-|Week |  Date |  Topics                                                    |
-|-----|-------|------------------------------------------------------------|
+|Week |  Date |  Topics                                                    
+|-----|-------|------------------------------------------------------------
 |1  | 9/9/19   | Introduction. Installing the necessary software. Basic introduction to `git`, the command line (`bash` or PowerShell) and Jupyter.
 |2  | 9/16/19  | First steps with Python: Variables, Conditionals and Loops.
 |3  | 9/23/19  | **No class.** 
